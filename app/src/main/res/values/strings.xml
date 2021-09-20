@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">1MentalCalculationJava</string>
+
+    <string-array name="arrayNumberOfQuestions">
+        <item>10題</item>
+        <item>20題</item>
+        <item>30題</item>
+    </string-array>
+
+    <string-array name="arrayCapacity">
+        <item>1個數字相加</item>
+        <item>2個數字相加</item>
+        <item>3個數字相加</item>
+        <item>4個數字相加</item>
+    </string-array>
+
+    <string-array name="arrayHowManyDigits">
+        <item>1位數</item>
+        <item>2位數</item>
+        <item>3位數</item>
+    </string-array>
+</resources>
